@@ -12,19 +12,19 @@
 - Детальное логирование процесса
 
 ## Установка
-
+```bash
 git clone https://github.com/ваш-аккаунт/image_processor.git
 cd image_processor
 pip install -r requirements.txt
-
-
-
-##Использование
-
+Использование
+bash
 python src/image_processor.py -i input_folder -o output_folder -c config.json
 Параметры командной строки
 
-Параметр	Описание	По умолчанию
+Параметр/Описание/По умолчанию
+
 -i	Входная директория	input
+
 -o	Выходная директория	output
+
 -c	Конфигурационный файл	config.json
