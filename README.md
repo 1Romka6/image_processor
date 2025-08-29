@@ -13,7 +13,7 @@
 
 ## Установка
 ```
-git clone https://github.com/ваш-аккаунт/image_processor.git
+git clone https://github.com/1Romka6/image_processor
 cd image_processor
 pip install -r requirements.txt
 
