@@ -1,0 +1,17 @@
+{
+    "EXPOSURE": 1.0309278350515463,
+    "CONTRAST": 10,
+    "GAMMA": 3,
+    "CURVE_POINTS": [
+        [0.0, 0.0],
+        [0.347985, 0.233766],
+        [0.716912, 0.5],
+        [0.898897, 0.915584],
+        [0.977941, 0.993506],
+        [1.0, 1.0]
+    ],
+    "DESATURATE": true,
+    "JPEG_QUALITY": 100,
+    "PROCESS_SUBFOLDERS": true,
+    "LOG_LEVEL": "INFO"
+}
